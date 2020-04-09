@@ -1,5 +1,6 @@
 # Urban Growth and Emergent Statistics
 This is the python code and data accompanying the journal article Urban Growth and Emergent Statistics of Cities (Bettencourt 2020)
 
+Figure numbers as indicated in the file names.
 
-Figure S1 : SAMIs_MSAs_Wages_heteroscedasticity.py
+Data used is incliuded. An updated version of the data is available from the US Bureau of Economic Analysis Website as Table CA30 Economic Profile: Wages and Salaries: https://www.bea.gov/regional/downloadzip.cfm.
